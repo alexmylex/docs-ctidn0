@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-f8qj1n.rtb-system.online/sitemap.xml
